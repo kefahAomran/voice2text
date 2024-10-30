@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "prpject1app",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.sourceDirectory": "D:/kefah/project/prpject1app/linux"
+	}
+}
